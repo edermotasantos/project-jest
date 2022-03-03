@@ -1,3 +1,8 @@
+# Project Jest
+
+![Captura de tela de 2022-03-03 20-41-42](https://user-images.githubusercontent.com/82417443/156671742-74551e86-a050-4709-bbe3-28fa31eb4c99.png)
+
+
 ## Termos de acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
